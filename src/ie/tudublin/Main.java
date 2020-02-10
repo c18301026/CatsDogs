@@ -7,5 +7,8 @@ package ie.tudublin;
 public class Main {
 	public static void main(String[] args) {
 		System.out.println("Hello world");
+
+		// Create an animal
+		Animal a = new Animal();
 	}
 }
